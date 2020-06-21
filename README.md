@@ -1,6 +1,6 @@
 # Project title
 
-*Cuisine-Prediction-From-Ingredients-Using-Logistic-Regression*
+*Cuisine Prediction From Ingredients Using Logistic Regression*
 
 # Goal
 
@@ -16,4 +16,4 @@
 
 1. **Data**: Consists of the test and train datasets.  
 
-2. **Code and results**: Contains the Python Jupyter Notebook used for cleaning, analysis and modeling. Also contains a link to the Kaggle kernel. 
+2. **Code and results**: Contains the Python Jupyter Notebook used for cleaning, analysis and modeling. Also contains a link to the Kaggle kernel as well as the final prediction results. 
