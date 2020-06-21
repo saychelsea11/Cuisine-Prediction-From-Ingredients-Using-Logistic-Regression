@@ -4,16 +4,16 @@
 
 # Goal
 
-- Help homeowners decide a reasonable price at which to sell their house or help prospective buyers decide a fair purchase price for a new home in Ames, Iowa.
-- Utilize housing data containing over 70 influential features such as area, year built, number of rooms, type of heating, number of fireplaces, and others to esimate the price of the house. 
+- To predict the cuisines of dishes based on the ingredients. 
+- The dataset consisted of a list of ingredients for each dish and the cuisine as the target variable. 
 
 # Approach 
 
-- Use exploratory data analysis and linear regression to predict housing prices. 
-- Compare different models such as ordinary least squares and gradient boosting trees to find the most optimized solution. 
+- Used logistic regression to predict the cuisines from the dataset of ingredients.  
+- Applied text mining techniques such as regular expressions, lemmatization, count vectorizer and TFIDF to clean and prepare the data for the modeling phase. 
 
 # Contents
 
-1. **Data**: Consists of the test and train data as well as the data description in a text file.  
+1. **Data**: Consists of the test and train datasets.  
 
-2. **Jupyter notebooks and results**: Contains the Python Jupyter Notebook used for cleaning, analysis and modeling. Also contains a link to the Kaggle kernel. 
+2. **Code and results**: Contains the Python Jupyter Notebook used for cleaning, analysis and modeling. Also contains a link to the Kaggle kernel. 
