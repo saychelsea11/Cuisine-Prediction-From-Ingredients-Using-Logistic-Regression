@@ -2,6 +2,10 @@
 
 *Cuisine Prediction From Ingredients Using Logistic Regression*
 
+# Blog post
+
+http://thecraftofdata.com/2019/03/making-food-recommendations-by-analyzing-cuisines-and-ingredients
+
 # Goal
 
 - To predict the cuisines of dishes based on the ingredients. 
